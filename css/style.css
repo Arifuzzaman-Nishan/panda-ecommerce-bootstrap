@@ -26,6 +26,10 @@
     margin: 1rem;
     padding: 5%;
 }
+.panda-slide h3
+{
+    color: #FF458F;
+}
 .item
 {
     width: 95%;
